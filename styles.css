@@ -1,2 +1,38 @@
 
 /* Your CSS Code here. */
+
+table{
+ width:100%;
+	border-collapse:collapse
+}
+
+table,th,td{
+border:1px solid black;
+	color:white
+}
+
+.thead{
+background-color:#e06b5c;
+	
+}
+.r1{
+ background-color:#e69085;
+}
+
+th{
+ text-align:left
+}
+	tr td:first-child{
+		text-align:left
+}
+
+tr td{
+text-align:right
+}
+.r2 td, .r3 td{
+background-color:#c2b4b2;
+	color:black;
+}
+
+
+
